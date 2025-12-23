@@ -4,11 +4,13 @@
 
 **SmartEA TrendInDicators** 是一套专为高频与趋势交易者设计的智能辅助决策系统。它不仅仅是一个指标，而是一个高度集成的图表看板，旨在消除交易中的情绪干扰，提供一眼即辨的进出场逻辑。
 
+![SmartEA TrendInDicators 系统预览](img/1766481836025.jpg)
+
 ---
 
 ## 为什么选择 SmartEA?
 
-### 1. 独家核心：Smart-Trend 算法引擎
+### 1. 优化的算法引擎
 
 我们对价格波动算法进行了深度优化与封装，摈弃了传统滞后指标的弊端，在趋势启动初期即可实现K线瞬间变色，帮您抢占先机。
 
@@ -24,6 +26,23 @@
 * **实时方向锁定：** 明确当前市场主导权。
 * **动态防守线 (Stop Loss)：** 基于市场波段低点/高点自动计算的科学防守位置。
 * **目标盈利区 (Take Profit)：** 智能扫描近期阻力与支撑，预判潜在利润空间。
+
+### 4. 实盘验证效果
+
+目前已经用实盘验证过效果，基于美分账号验证这套交易逻辑，效果得到肯定。以下是实盘的数据：
+
+收益概览：
+
+![SmartEA TrendInDicators 系统预览](img/WechatIMG3363.jpeg)
+
+已结订单情况：
+
+![SmartEA TrendInDicators 系统预览](img/WechatIMG3361.jpeg)
+
+净利润曲线：
+
+![SmartEA TrendInDicators 系统预览](img/WechatIMG3362.jpeg)
+
 
 ---
 
