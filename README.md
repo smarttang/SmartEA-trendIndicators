@@ -45,7 +45,7 @@
 
 EA 对冲实盘曲线：
 
-![SmartEA TrendInDicators 系统预览](img/ea.png)
+![SmartEA TrendInDicators 系统预览](img/ea.png) 
 
 ---
 
